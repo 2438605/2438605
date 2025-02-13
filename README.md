@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm passionate about immersive technology, and I l
 - VR softwares: Unity , Unreal engine
 - 3D modeling: Blender, Shaper3D, shapes XR
 
-## 📈 GitHub Stats
-
-![2438605's GitHub stats](https://github-readme-stats.vercel.app/api?username=2438605&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/shubhada-londhe-370845266)
