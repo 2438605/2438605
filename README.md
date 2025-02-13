@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about immersive technology, and I l
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking to explore more in this field of Virtual reality.
 - 💬 Ask me about anything related to tech!
-- 📫 How to reach me: [Email](londheshubhada43@gmail.com)
+- 📫 How to reach me: londheshubhada43@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love exploring the intersection of art and technology.
 
